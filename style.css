@@ -1,0 +1,28 @@
+*{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+p{
+  background-color: rgb(56, 244, 128);
+  text-align: center;
+  padding: 2%;
+  margin-left: 0%;
+  margin-right: 40%;
+}
+
+nav{
+    background-color: rgb(173, 123, 123);  
+    text-align: center;
+}
+html{
+background-color: rgb(0, 0, 0);
+}
+h1{
+    background-color: rgb(132, 99, 240);
+    text-align: center;
+}
+
+.rosso-bello{
+background-color: rgb(136, 0, 0);
+
+}
